@@ -4,7 +4,7 @@ import streamlit as st
 from PIL import Image
 import time
 import base64
-pip install streamlit
+ pip install streamlit
 streamlit hello
 
 
