@@ -1,4 +1,4 @@
-streamlit
+streamline
 pillow
 time
 base64
